@@ -1,0 +1,2 @@
+# -LOAN-PREDICTION-DATA-DRIVEN-INSIGHTS-FOR-CREDIT-RISK-ASSESSMENT
+The project “LOAN PREDICTION: DATA-DRIVEN INSIGHTS FOR CREDIT RISK ASSESSMENT” focuses on understanding and analyzing the factors that influence whether a loan application will be approved or not. Using Exploratory Data Analysis (EDA) techniques, this project aims to uncover hidden patterns, trends, and relationships within the loan dataset.
