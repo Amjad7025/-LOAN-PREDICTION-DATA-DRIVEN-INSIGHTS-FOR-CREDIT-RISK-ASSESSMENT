@@ -9,9 +9,9 @@ The project â€œLOAN PREDICTION: DATA-DRIVEN INSIGHTS FOR CREDIT RISK ASSESSMENTâ
 provide data-driven insights that can help financial institutions or banks assess credit risk more effectively and make informed lending decisions.
 
 ## DATASET
-*SOURCE: https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval
+* SOURCE: https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval
 
-*FEATURES:
+* FEATURES:
 ApplicationDate
 Age
 AnnualIncome
@@ -48,13 +48,14 @@ MonthlyLoanPayment
 TotalDebtToIncomeRatio
 RiskScore
 
-*TARGET:LoanApproved
+* TARGET:LoanApproved
 
 
 ## TECH STACK:
 
-*LANGUAGE:python
-*LIBRARIES:numpy,pandas,matplotlib,seaborn,scikit-learn
+* LANGUAGE:python
+* LIBRARIES:numpy,pandas,matplotlib,seaborn,scikit-learn
+
 
 ## PROCESS
 
